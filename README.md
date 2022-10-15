@@ -1,0 +1,2 @@
+# mingexercise
+no
